@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.188.0](https://github.com/supabase/auth/compare/v2.187.0...v2.188.0) (2026-02-25)
+
+
+### Features
+
+* modernize IsNotFoundError handler to support errors.Is ([#2392](https://github.com/supabase/auth/issues/2392)) ([ab7c9f9](https://github.com/supabase/auth/commit/ab7c9f98a7fd98f0ff29d1f97784fc9e4dbfc87c))
+* **oauth-server:** allow updating `token_endpoint_auth_method` for OAuth clients ([#2391](https://github.com/supabase/auth/issues/2391)) ([1280dc1](https://github.com/supabase/auth/commit/1280dc1ad75fce6e69bfa15c262c4b637c0720b5))
+
 ## [2.187.0](https://github.com/supabase/auth/compare/v2.186.0...v2.187.0) (2026-02-23)
 
 
